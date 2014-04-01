@@ -119,11 +119,13 @@ SWOT analysis from the perspective of the government
 - several sectors are influenced by a possible shortage in this system
 
 ======
-## 8. My opinion
+## 8. Our opinions
 
-Every coin has to sides. To a good view, the business and the government can access the same information, and the information accessed do have a record, and who accessed the information can be recorded in details.
-The tax system can also seal the business with the government, make it truely accurate to calculate the amounts that should be paid.
-To a perssimetic view, the authority issue can be difficult to decide and complex, which includes which information can be accessed and which cannot.
+Every coin has to sides. 
+
+- To a good view, the business and the government can access the same information, and the information accessed do have a record, and who accessed the information can be recorded in details.
+- The tax system can also seal the business with the government, make it truely accurate to calculate the amounts that should be paid.
+- To a perssimetic view, the authority issue can be difficult to decide and complex, which includes which information can be accessed and which cannot.
 
 
  
