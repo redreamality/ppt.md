@@ -37,8 +37,8 @@ Norway launched a program called eNorway,In 2000 for the purpose of creating an 
 
 - My page: to collect all relevant information from the public sector regarding a single citizen to his / her own web page. The citizen themselves can also access the page and add or modify information about themselves as well as their neighbourhood!
 - A self-assessment tax return system
-- S@mspill: Maintaining a citizen’s lifelong health record, make it convenient for different areas to access the health information
-Norge.no,Altinn.no, aimed respectively for private person and business uses, for job applications.
+- S@mspill: Maintaining a citizen’s lifelong health record, make it convenient for different areas to access the health information.
+- Norge.no,Altinn.no, aimed respectively for private person and business uses, for job applications.
 - Geonorge.no: offering geographical data and environmental data regarding Norway.
 - many other more.
 
