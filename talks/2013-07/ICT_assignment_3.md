@@ -6,10 +6,10 @@ presented by Tony and Chenhao
 
 ## 1. What interoperability is. 
 
+In IT industries, interoperability is about different systems from different vendors being able to exchange data between one another. 
+Nowadays this exchanging process is commonly enabled by using open data standards, e.g. the XML language. This can also be reached by using a conversion service that provides the needed conversion on-the-fly.
 
-In IT level, interoperability is about different systems from different vendors being able to exchange data between one another. This data exchange is needed; otherwise the systems cannot work together. Nowadays this is commonly enabled by using open data standards, e.g. the XML language. This can also be reached by using a conversion service that provides the needed conversion on-the-fly.
-
-The dictionary definition is pretty much the same.
+The dictionary definition is pretty much the same. In short interoperability is enabling the data and information to be exchanged and used for different purpose and by different people.
 
 =====
 
@@ -24,7 +24,6 @@ Norway.
 - It was hard to find figures of what Norway has budgeted for the governmental information systems, but according to Statistics Norway, the expenditure on ICT related to the Administration of the State and the economic and social policy of the community was in 2012 USD 705 million, which adds up to 0.144 percent of the GDP (USD 491.1 Billion in 2012).
 
 - The significance of this is that the systems might get too expensive. If there are problems in planning or implementation, this can create a massive money hole. However, Norway is a rich country and they’ve managed to keep the figures quite reasonable (really reasonable when comparing to the GDP of Norway).
-- ![](http://i.imgur.com/Fu17HBj.png)
 
 
 =====
@@ -35,9 +34,9 @@ a. in regular use
 --
 Norway launched a program called eNorway,In 2000 for the purpose of creating an ICT system. There are various of different programs in regular use, some successful examples are:   
 
-- My page: to collect all relevant information from the public sector regarding a single citizen to his / her own web page. The citizen themselves can also access the page and add or modify information about themselves as well as their neighbourhood!
+- My page: A public system to collect all relevant information from the public sector regarding a single citizen to his / her own web page. The citizen themselves can also access the page and add or modify information about themselves as well as their neighbourhood!
 - A self-assessment tax return system
-- S@mspill: Maintaining a citizen’s lifelong health record, make it convenient for different areas to access the health information.
+- S@mspill: National Electronic Health Record Program（EHR），maintaining a citizen’s lifelong health record, make it convenient for different areas to access the health information.
 - Norge.no,Altinn.no, aimed respectively for private person and business uses, for job applications.
 - Geonorge.no: offering geographical data and environmental data regarding Norway.
 - many other more.
@@ -70,6 +69,8 @@ Norwegian municipalities have a common strategy called eKommune, which aims at i
 For instance, three systems interoperating with each others are My Page, the Tax Return system and S@mspill, the health record system. 
 
 Norway has also created SmartRap, a system used for natural or man made emergency broadcasts. This system consists of diifferent systems communicating with each other through three modules in case of emergency.
+
+![](http://i.imgur.com/Fu17HBj.png)
 
 =====
 
