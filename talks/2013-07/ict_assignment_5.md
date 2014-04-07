@@ -16,7 +16,7 @@ presented by XIE chenhao
 
 ## for and against
 
-XMPP enables  
+- XMPP enables  
 
 for
 ----
