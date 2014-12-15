@@ -4,22 +4,55 @@
 
 ##Tree parsing results
 
+example:
+
 * verb results for "STEVE JOBS" and "PIXAR"
+
 <pre>
-	co-founded served.
-	bought was given.
-	was running tried failed announced expired.
+	# correct relations
+	co-founded
+	served.
+	
+	
+	
+	#in clauses
 	announced expired.
-	.
+	announced expired.
 	announced had agreed.
 	floyd described interfered.
 	revealed advised understand.
+	
+	#passive voice
 	dedicating was wrote.
 	dedicating was wrote was dear guiding.
 	are dedicated.
+	bought was given.
+	was running 
+	tried
+	failed 
 </pre>
 
 =====
+
+* "mona lisa" "renaissance"
+
+	* da_vinci renaissance
+	<pre>
+		saw known
+		inspired.
+		inspired.
+		were making.
+	</pre>
+	
+	* mona lisa da_vinci
+	<pre>
+		began painting.
+	</pre>
+
+the relationship between 
+=====
+
+
 renaissance_da_vinci
 ![](./data/renaissance_da_vinci_0.png)
 =====
@@ -91,3 +124,13 @@ steve_jobs_pixar
 =====
 steve_jobs_pixar
 ![](./data/steve_jobs_pixar_7.png)
+
+=====
+
+##results: dependencies
+ 
+
+
+##hard sentences
+![](./data/hard_sentences_example.png)
+
