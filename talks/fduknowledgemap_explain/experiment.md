@@ -10,10 +10,9 @@ example:
 * verb results for "STEVE JOBS" and "PIXAR"
 
 There are some correct relations
-however some are affected by the grammar structure
-	mainly clauses : 
-		XXX announced that XXX
-		XXX declared that XXX
+however some are affected by the grammar structure(mainly clauses） 
+* XXX announced that XXX
+* XXX declared that XXX
 
 <pre>
 	# correct relations
@@ -150,7 +149,7 @@ the relationship between:
 		 ('da', 'renaissance', {'verb': 'airportlist'})]
 	</pre>
 	
-
+=====
 * hard sentences 
 ![](./data/hard_sentences_example.png)
 
