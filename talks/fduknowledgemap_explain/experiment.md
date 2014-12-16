@@ -51,22 +51,19 @@ the relationship between:
 * "mona lisa" "renaissance"
 
 	* da_vinci renaissance
-	<pre>
-		saw known
-		inspired.
-		inspired.
-		were making.
-	</pre>
+	
+<pre>
+	saw known
+	inspired.
+	inspired.
+	were making.
+</pre>
 	
 	* mona lisa da_vinci
-	<pre>
-		began painting.
-	</pre>
-
- 
-
-
-
+	
+<pre>
+	began painting.
+</pre>
 
 
 
