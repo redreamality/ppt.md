@@ -10,24 +10,31 @@ example:
 * verb results for "STEVE JOBS" and "PIXAR"
 
 There are some correct relations
-however some are affected by the grammar structure(mainly clauses） 
-* XXX announced that XXX
-* XXX declared that XXX
 
 <pre>
 	# correct relations
 	co-founded
 	served.
 	
-	
-	
+</pre>	
+
+
+however some are affected by the grammar structure(mainly clauses） 
+
+* XXX announced that XXX
+* XXX declared that XXX
+
+
+<pre>	
 	#in clauses
 	announced expired.
 	announced expired.
 	announced had agreed.
 	floyd described interfered.
 	revealed advised understand.
-	
+</pre>	
+
+<pre>
 	#passive voice
 	dedicating was wrote.
 	dedicating was wrote was dear guiding.
