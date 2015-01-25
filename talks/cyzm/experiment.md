@@ -38,14 +38,13 @@
 
 </pre>	
 
-* 分享，每个人的声音，e.g.弹幕
-* 
+* 分享，每个人的声音e.g.弹幕
 
 * 所以我们正在做的：除了我们的编辑器本身，用户不需要了解任何其他事情
 
 =====
 
-# talk is cheap, show me the demo
+# talk is cheap, show me the DEMO
 
 =====
 
