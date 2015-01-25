@@ -8,13 +8,7 @@
 
 ## 表格
 
-我们的团队
-|名字|分工|
-|--|--|
-|江浦饭|前端开发|
-|倪伟清|投资财务|
-|谢晨昊|后台开发|
-|张旭东|运维|
+![](http://i.imgur.com/Dwls9OB.png)
 
 =====
 
@@ -33,10 +27,13 @@
 
 ![](http://i.imgur.com/EFkgLkP.png)
 
+=====
+
 ## 知识图谱
 
 ![enter image description here](http://i.imgur.com/TqJcs7p.png)
 
+=====
 ## 流程图
 
 ![](http://i.imgur.com/nsqAB4R.png)
