@@ -13,8 +13,9 @@
 
 =====
 
-## 为何是我们来做？
+## 我们相比于传统编辑器的优势？
 
+* think about word POWERPOINT 
 * 随时随地
 * 任意电脑，无需安装
 * 天生跨平台
@@ -69,6 +70,9 @@
 	有多少人做PPT	？
 	
 	有多少人想做与众不同最时尚的PPT？
+	
+	
+
 </pre>	
 
 =====
@@ -79,3 +83,11 @@
 * 插件和高级功能付费
 * 企业大客户
 
+=====
+# 彩蛋：快速迭代的力量
+
+
+http://redreamality.github.io/ppt.md/talks/cyzm/html_parser_intro_impress.html#/1
+
+=====
+# 谢谢！
