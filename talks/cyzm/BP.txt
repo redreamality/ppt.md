@@ -1,0 +1,18 @@
+一图胜千言：
+
+```flow
+
+s=>start: 智能冰箱
+e=>end: 手机
+recipe=>subroutine: 推送最新菜谱到我冰箱屏幕上
+eatwhat=>condition: 有我想吃的?
+rechoose=>subroutine: 重新选择
+scan=>subroutine: 检查冰箱缺哪些食物
+list=>operation: 生成购物清单
+push=>subroutine: 推送到手机
+
+s->recipe->eatwhat
+eatwhat(yes)->scan(right)->list->push(right)->e
+eatwhat(no)->rechoose(right)->recipe
+
+```
