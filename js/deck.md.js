@@ -4,7 +4,7 @@
         Showdown = window.Showdown,
         MAKE_HTML = (new Showdown.converter()).makeHtml,
         PPT_CONFIG = window.PPT_CONFIG,
-        SPLITER = '=====',
+        SPLITER = '-----',
         mdPath,
         tmplId = 'ppt_item_tmpl',
         /**
